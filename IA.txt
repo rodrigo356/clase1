@@ -1,0 +1,12 @@
+¿Qué es la Inteligencia Artificial?
+
+La inteligencia artificial (IA) es una rama de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como aprender, razonar, resolver problemas, entender lenguaje natural, percibir el entorno o tomar decisiones.
+La IA no es una sola tecnología, sino un conjunto de métodos y técnicas que incluyen:
+
+    Aprendizaje automático (machine learning): los sistemas aprenden de datos.
+
+    Procesamiento de lenguaje natural (NLP): entienden y generan lenguaje humano.
+
+    Visión por computadora: interpretan imágenes o videos.
+
+    Robótica: aplican IA en máquinas físicas.
