@@ -1,1 +1,24 @@
-mi primer clase
+¿Qué es Machine Learning?
+
+Machine Learning (aprendizaje automático) es una rama de la inteligencia artificial que permite que las máquinas aprendan por sí solas a partir de datos, sin necesidad de ser programadas con reglas específicas para cada tarea.
+
+En lugar de decirle exactamente qué hacer, le damos ejemplos, y el sistema aprende patrones para tomar decisiones, hacer predicciones o clasificar información.
+Tipos de Machine Learning
+
+    Aprendizaje supervisado:
+
+        Usa datos con etiquetas conocidas (por ejemplo, imágenes con nombres).
+
+        Ejemplo: detectar si una radiografía muestra neumonía o no.
+
+    Aprendizaje no supervisado:
+
+        Usa datos sin etiquetas, y el modelo busca patrones por sí solo.
+
+        Ejemplo: agrupar clientes por hábitos de consumo.
+
+    Aprendizaje por refuerzo:
+
+        El modelo aprende tomando decisiones y recibiendo "recompensas" o "castigos".
+
+        Ejemplo: un robot que aprende a caminar solo.
